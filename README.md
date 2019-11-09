@@ -13,7 +13,7 @@ If you want to use this subroutine (research ONLY), please cite our papers:
    Computer Methods in Applied Mechanics and Engineering, 328: 612-637.
 3. Wu, J. Y. and Nguyen, V.P., 2018. A length scale insensitive phase-field damage model for brittle fracture. 
    Journal of the Mechanics and Physics of Solids, 119: 20-42.
-4. Wu, J. Y., Huang, Y. and Nguyen, V. P., 2019. On the BFGS monolithic algorithm for the unified phase-field damage theory.    
+4. Wu, J. Y., Huang, Y. and Nguyen, V. P., 2019. On the BFGS monolithic algorithm for the unified phase-field damage theory. 
    Computer Methods in Applied Mechanics and Engineering, 112704.
 5. Wu, J. Y. and Huang, Y., 2019. Comprehensive ABAQUS implementations of phase-field damage models for fracture in solids. 
    Theoretical and Applied Fracutre Mechancis, in press.
