@@ -16,5 +16,5 @@ If you want to use this subroutine (research ONLY), please cite our papers:
    Journal of the Mechanics and Physics of Solids, 119: 20-42.
 4. Wu, J. Y., Huang, Y. and Nguyen, V. P., 2019. On the BFGS monolithic algorithm for the unified phase-field damage theory. 
    Computer Methods in Applied Mechanics and Engineering, 112704.
-5. Wu, J. Y. and Huang, Y., 2019. Comprehensive ABAQUS implementations of phase-field damage models for fracture in solids. 
+5. Wu, J. Y. and Huang, Y., 2019. Comprehensive ABAQUS implementations of phase-field damage models for fracture. 
    Theoretical and Applied Fracutre Mechancis, in press.
