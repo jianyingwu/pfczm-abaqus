@@ -3,7 +3,8 @@ Implementation of the phase-field regularized cohesive zone model (PF-CZM) into 
 
 usage: abaqus interactive job=bending_bfgs user=pfczm_bfgs
 
-Author: J. Y. Wu (jywu@scut.edu.cn) and Y. Huang
+Author: J. Y. Wu (jywu@scut.edu.cn) and Y. Huang (yulihuang@gmail.com)
+
 Date: 31 Oct. 2019
 
 If you want to use this subroutine (research ONLY), please cite our papers:
