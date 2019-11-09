@@ -1,5 +1,5 @@
 # pfczm-abaqus
-Implementation of the phase-field regularized cohesive zone model into ABAQUS.
+Implementation of the phase-field regularized cohesive zone model (PF-CZM) into ABAQUS.
 
 usage: abaqus interactive job=bending_bfgs user=pfczm_bfgs
 
