@@ -7,7 +7,7 @@ Author: J. Y. Wu (jywu@scut.edu.cn) and Y. Huang (yulihuang@gmail.com)
 
 Date: 31 Oct. 2019
 
-If you want to use this subroutine (research ONLY), please cite our papers:
+If you want to use these subroutine (research ONLY), please cite our papers:
 1. Wu, J. Y., 2017. A unified phase-field theory for the mechanics of damage and quasi-brittle failure. 
    Journal of the Mechanics and Physics of Solids, 103: 72-99.
 2. Wu, J. Y., 2018. A geometrically regularized gradient damage model with energetic equivalence. 
@@ -16,5 +16,5 @@ If you want to use this subroutine (research ONLY), please cite our papers:
    Journal of the Mechanics and Physics of Solids, 119: 20-42.
 4. Wu, J. Y., Huang, Y. and Nguyen, V. P., 2019. On the BFGS monolithic algorithm for the unified phase-field damage theory. 
    Computer Methods in Applied Mechanics and Engineering, 112704.
-5. Wu, J. Y. and Huang, Y., 2019. Comprehensive ABAQUS implementations of phase-field damage models for fracture. 
-   Theoretical and Applied Fracutre Mechancis, in press.
+5. Wu, J. Y. and Huang, Y., 2019. Comprehensive implementations of phase-field damage models in ABAQUS. 
+   Theoretical and Applied Fracutre Mechancis, submitted.
