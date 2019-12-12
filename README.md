@@ -1,6 +1,9 @@
 # pfczm-abaqus
 Implementation of the phase-field regularized cohesive zone model (PF-CZM) into ABAQUS.
 
+Note: The routines are programmed in the free format syntax of FORTRAN90. 
+      Currently the UEL subroutines can only be run in serial computation.
+
 usage: abaqus interactive job=bending_bfgs user=pfczm_bfgs
 
 Author: J. Y. Wu (jywu@scut.edu.cn) and Y. Huang (yulihuang@gmail.com)
@@ -17,4 +20,4 @@ If you want to use these subroutine (research ONLY), please cite our papers:
 4. Wu, J. Y., Huang, Y. and Nguyen, V. P., 2019. On the BFGS monolithic algorithm for the unified phase-field damage theory. 
    Computer Methods in Applied Mechanics and Engineering, 112704.
 5. Wu, J. Y. and Huang, Y., 2019. Comprehensive implementations of phase-field damage models in ABAQUS. 
-   Theoretical and Applied Fracutre Mechancis, submitted.
+   Theoretical and Applied Fracutre Mechancis, in press.
